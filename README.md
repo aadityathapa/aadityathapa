@@ -37,7 +37,7 @@ Thanks for your support!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [AadityaThapa](https://github.com/AadityaThapa)
+  ![AadityaThapa](https://github.com/AadityaThapa)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
