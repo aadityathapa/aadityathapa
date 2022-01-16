@@ -30,7 +30,7 @@ I am a Student who is trying out on his developing passion. I mostly like to wor
 
 Thanks for your support!
 
-<h1 align="center">Hi 👋, I'm Aaditya Thapa!</h1>
+<h1 align="center">Hi 👋, I'm Aaditya Thapa</h1>
 <h3 align="center">A Linux enthusiast from Nepal 🇳🇵</h3>
 
 - 🌱 I’m currently learning **Laravel**
