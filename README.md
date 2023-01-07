@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Aaditya Thapa</h1>
 <h3 align="center">A Linux enthusiast from Nepal 🇳🇵</h3>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Python**
 - 😄 Pronouns: **he/him**
 
 [![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AadityaThapa&show_icons=true&layout=compact&theme=dark)](https://github.com/AadityaThapa)
