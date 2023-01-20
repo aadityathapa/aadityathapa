@@ -1,14 +1,8 @@
-
-<h1 align="center">Hi there 👋, I'm Aaditya Thapa</h1>
-<h3 align="center">A Linux enthusiast from Nepal 🇳🇵</h3>
-
-- 🌱 I’m currently learning **Python**
-- 😄 Pronouns: **he/him**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 [![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AadityaThapa&show_icons=true&layout=compact&theme=dark)](https://github.com/AadityaThapa)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaThapa&layout=compact&theme=dark)](https://github.com/AadityaThapa)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
