@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya Thapa!</h1>
-<h3 align="center">A Turbo CHARGED full-stack web developer from Nepal</h3>
+<h3 align="center">A guy who codes stuff from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityathapa&label=Profile%20views&color=0e75b6&style=flat" alt="aadityathapa" /> </p>
   
